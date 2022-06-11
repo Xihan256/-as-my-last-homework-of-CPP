@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>black_jiang.png</file>
+        <file>black_jv.png</file>
+        <file>black_ma.png</file>
+        <file>black_pao.png</file>
+        <file>black_shi.png</file>
+        <file>black_xiang.png</file>
+        <file>black_zu.png</file>
+        <file>red_jiang.png</file>
+        <file>red_ju.png</file>
+        <file>red_ma.png</file>
+        <file>red_pao.png</file>
+        <file>red_shi.png</file>
+        <file>red_xiang.png</file>
+        <file>red_zu .png</file>
+        <file>scut.jpg</file>
+    </qresource>
+</RCC>
