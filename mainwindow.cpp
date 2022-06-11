@@ -20,11 +20,11 @@ MainWindow::MainWindow(QWidget *parent)
 
     connect(ui->actionExit,&QAction::triggered,this,&QMainWindow::close);
     connect(ui->actionabout,&QAction::triggered,[=](){
-        QMessageBox::information(this,"学生信息","3班王宏宇202130481388");
+        QMessageBox::information(this,"学生信息","X班王某某20213048XXXX");
     });
 
     connect(ui->actionsupport,&QAction::triggered,[=](){
-        QMessageBox::information(this,"打赏通道","欢迎打钱,微信:Why2905795198");
+        QMessageBox::information(this,"打赏通道","欢迎打钱,微信:XXXXXXXXXX");
     });
 
     connect(ui->exitBtn,&QPushButton::clicked,this,&QMainWindow::close);
